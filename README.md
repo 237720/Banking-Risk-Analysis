@@ -26,7 +26,7 @@
 
 -Loan Type and Purpose Charts
 
--Regional Analysis (if applicable)
+-Regional Analysis 
 
  🚀 How to Use:
 -Load cleaned_loan_data.csv into Power BI
