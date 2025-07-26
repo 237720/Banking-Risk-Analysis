@@ -1,7 +1,7 @@
 --Banking Risk Analysis Project
-A data analytics project to identify and visualize loan risk patterns in banking using Python, Power BI, and CSV files.
+ A data analytics project to identify and visualize loan risk patterns in banking using Python, Power BI, and CSV files.
 
-📌 Key Highlights
+ 📌 Key Highlights:
  ✅ Cleaned raw customer and loan data using Python (pandas)
 
  📊 Performed Exploratory Data Analysis (EDA)
@@ -10,7 +10,7 @@ A data analytics project to identify and visualize loan risk patterns in banking
 
  📈 Built interactive Power BI dashboard for loan status, risk levels, income, and age analysis
 
-🛠️ Tools Used
+ 🛠️ Tools Used:
 -Python (Data Cleaning & EDA)
 
 -Power BI (Dashboard)
@@ -19,7 +19,7 @@ A data analytics project to identify and visualize loan risk patterns in banking
 
 -Excel (Optional formatting)
 
-📊 Dashboard Includes
+ 📊 Dashboard Includes:
 -Loan Status Distribution
 
 -Risk Level by Age/Income
@@ -28,14 +28,14 @@ A data analytics project to identify and visualize loan risk patterns in banking
 
 -Regional Analysis (if applicable)
 
-🚀 How to Use
+ 🚀 How to Use:
 -Load cleaned_loan_data.csv into Power BI
 
 -Build visualizations or open the provided .pbix dashboard file
 
 -Run bank_risk_analysis.py to see how data was cleaned and merged
 
-👤 Author
+ 👤 Author:
 -Aman Mohammed KT
 
 -GitHub: 237720
